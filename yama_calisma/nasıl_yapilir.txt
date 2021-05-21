@@ -1,0 +1,14 @@
+diff eski_metin yeni_metin
+diff eski_metin yeni_metin > yama
+patch eski_metin < yama
+
+VEYA 
+
+diff eski_metin yeni_metin
+diff -c eski_metin yeni_metin > yama
+patch -i yama
+
+eğer eski dosya tutulmak istenirse
+
+...
+patch -i yama -o yeni_metin

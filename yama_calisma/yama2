@@ -1,0 +1,15 @@
+*** dosya100521	2021-05-10 01:57:25.963447951 +0300
+--- dosya100523	2021-05-10 02:02:14.386471376 +0300
+***************
+*** 2,5 ****
+  kamu lisansına sahiptir.
+  her isteyen çekirdeği değiştirebilir.
+  fakat yapılan değişiklikler
+! internet ortamında kamuya açılmalıdır.
+--- 2,7 ----
+  kamu lisansına sahiptir.
+  her isteyen çekirdeği değiştirebilir.
+  fakat yapılan değişiklikler
+! internet ortamında veya 
+! kolay erişilebilir bir bilgisayda
+! kamuya açılmalıdır.
